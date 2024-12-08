@@ -1,0 +1,7 @@
+# ECE 128 Lab 10
+Introduction
+The purpose of this lab is to use a created rom and ram in a system implementation to see how a control unit and register can be used to perform operations. The created control unit that was supplied provides numbers stored in the ROM to the Register File which then passes two numbers to the multiplier, who calculates a product between two numbers and gives that result to the RAM which stores it in an address given by the top module. 
+In this lab, we are expected to implement and theorize about how a control unit might work in a real computer and how the operation would be performed in a computer.
+
+Objective
+The objective of this lab is to design and implement key components of a digital processing system, including a ROM (Read-Only Memory), RAM (Random Access Memory), and a Multiplier, using digital logic design principles. The ROM will serve as a storage unit for fixed input data, while the RAM will act as a temporary memory to store processed results. The multiplier will perform arithmetic operations by calculating the product of two input values fetched from the memory units. By constructing these components, we are expected to gain practical experience in designing and simulating digital systems, understand the interaction between memory and computational units, and develop a comprehensive understanding of how data flows through a controlled system. 
